@@ -1,0 +1,82 @@
+{
+  "-NsGDtbYBAabQm9P-k3Y": {
+    "firebasekey": "-NsGDtbYBAabQm9P-k3Y",
+    "title": "C++",
+    "definition": "a general-purpose, high-level, cross-platform, object-oriented programming language (OOP). It's used to build software and is considered one of the most popular programming languages in the world.",
+    "timeSubmitted": "12/04/2023",
+    "uid": "",
+    "language_id": ""
+  },
+  "-NsGDtb_FzohPj1nSIaN": {
+    "firebasekey": "-NsGDtb_FzohPj1nSIaN",
+    "title": "C#",
+    "definition": "a general-purpose, object-oriented programming language developed by Microsoft. It's a multi-paradigm language that's versatile, easy to learn, and type-safe. C# is primarily used on the Windows .NET framework, but it can also be applied to an open source platform.",
+    "timeSubmitted": "02/08/2024",
+    "uid": "",
+    "language_id": ""
+  },
+  "-NsGDtbaz8zMUBkNU_hT": {
+    "firebasekey": "-NsGDtbaz8zMUBkNU_hT",
+    "title": "JAVASCRIPT",
+    "definition": "a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.",
+    "timeSubmitted": "10/26/2023",
+    "uid": "",
+    "language_id": ""
+  },
+  "-NsGDtbbdRq9C4ylSggM": {
+    "firebasekey": "-NsGDtbbdRq9C4ylSggM",
+    "title": "JAVA",
+    "definition": "a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform first released by Sun Microsystems in 1995. There are lots of applications of Java. It is used to develop desktop GUI applications, web applications, distributed systems and mobile applications.",
+    "timeSubmitted": "06/10/2023",
+    "uid": "",
+    "language_id": ""
+  },
+  "-NsGDtbcAhqs-rJwzqDE": {
+    "firebasekey": "-NsGDtbcAhqs-rJwzqDE",
+    "title": "RUST",
+    "definition": " A general-purpose, multi-paradigm programming language that's used to build reliable software. Rust is designed to be a safer alternative to C and C++, and is considered a modern version of both languages.Also, it is a statically and strongly typed functional language that emphasizes performance, type safety, and concurrency.",
+    "timeSubmitted": "08/30/2023",
+    "uid": "",
+    "language_id": ""
+  },
+  "-NsGE7lvmbr9YX8GP_T-": {
+    "firebasekey": "-NsGE7lvmbr9YX8GP_T-",
+    "title": "Blockchain",
+    "definition": " an advanced database mechanism that allows transparent information sharing within a business network. A blockchain database stores data in blocks that are linked together in a chain.",
+    "timeSubmitted": "06/24/2023",
+    "uid": "",
+    "technology_id": ""
+  },
+  "-NsGE7lxdVPf_1kawvdy": {
+    "firebasekey": "-NsGE7lxdVPf_1kawvdy",
+    "title": "Virtual Reality",
+    "definition": "The computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.",
+    "timeSubmitted": "12/16/2023",
+    "uid": "",
+    "technology_id": ""
+  },
+  "-NsGE7ly4jkxaUmY57vz": {
+    "firebasekey": "-NsGE7ly4jkxaUmY57vz",
+    "title": "IoT - Internet Of Things",
+    "definition": "It's a network of physical devices that are embedded with sensors, software, and network connectivity. These devices can collect and share data, allowing businesses to monitor, manage, and automate their operations more efficiently.",
+    "timeSubmitted": "09/04/2023",
+    "uid": "",
+    "technology_id": ""
+  },
+  "-NsGE7ly4jkxaUmY57w-": {
+    "firebasekey": "-NsGE7ly4jkxaUmY57w-",
+    "title": "Artificial Intelligence",
+    "definition": "A subfield of artificial intelligence (AI) that uses algorithms to create models that allow machines to perform tasks. ML enables machines to learn from data and past experiences, identify patterns, and make predictions with minimal human intervention.",
+    "timeSubmitted": "03/06/2024",
+    "uid": "",
+    "technology_id": ""
+  },
+  "-NsGE7lzI_ljInbcakGt": {
+    "firebasekey": "-NsGE7lzI_ljInbcakGt",
+    "title": "Quantum Computing",
+    "definition": "a multidisciplinary field that uses quantum mechanics to solve complex problems faster than classical computers. It involves aspects of computer science, physics, and mathematics",
+    "timeSubmitted": "07/20/2023",
+    "uid": "",
+    "technology_id": ""
+  }
+}
