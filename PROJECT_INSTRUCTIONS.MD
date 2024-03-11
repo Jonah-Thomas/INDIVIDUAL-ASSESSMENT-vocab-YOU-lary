@@ -10,7 +10,7 @@ In this student assessment, you will be creating an application that allows user
 - Representing data as HTML
 - Usage of semantic HTML5 tags
 - Asynchronous Programming
-- Promises 
+- Promises
 
 ## REMINDER
 We are not looking for completion of all stretch goals, but are focused on you hitting MVP, although if you can make it work completely, then wahoo!
